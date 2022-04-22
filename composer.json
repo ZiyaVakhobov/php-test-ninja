@@ -1,0 +1,13 @@
+{
+  "name": "ziya/test-ninja",
+  "description": "PHP package for Managing UI tests",
+  "type": "library",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "ziya\\TestNinja\\": "src"
+    }
+  }
+}
